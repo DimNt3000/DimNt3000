@@ -30,4 +30,4 @@ Python, PyTorch, MATLAB, ANSYS, CATIA V5, TypeScript, Node.js, React Native, SQL
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/dimitrios-georgios-ntoulias-b00764230/)
+[LinkedIn](https://www.linkedin.com/in/dimitrios-georgios-ntoulias-b00764230/) · [ORCID](https://orcid.org/0009-0009-2039-3298)
